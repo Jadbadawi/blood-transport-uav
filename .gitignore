@@ -1,0 +1,28 @@
+# Autodesk Inventor working files
+OldVersions/
+*.lck
+*.bak
+*.idw.dwf
+*.ipj.lck
+Inventor.log
+
+# Inventor Vault / Design Data caches
+_V/
+OldVersions*/
+
+# OS
+Thumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+*~

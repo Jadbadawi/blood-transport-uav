@@ -1,0 +1,8 @@
+# NACA 2414 port wing section, Re = 4.11e5, M = 0.0582 (20 m/s, ISA sea level,
+# chord 0.30 m). Values as stated in Section 5.1.1 of the Team 08 A2 Technical
+# Report. XFoil = inviscid/viscous 2D panel prediction; Tunnel = measured.
+configuration,source,cl_max,cd_min
+Clean (0 deg flap),XFoil,1.25,0.007
+Clean (0 deg flap),Wind tunnel,1.00,0.030
+Flap 30 deg,XFoil,1.80,0.070
+Flap 30 deg,Wind tunnel,1.25,0.200

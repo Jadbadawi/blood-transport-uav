@@ -1,0 +1,24 @@
+# PROVENANCE: digitised from the load-vs-deflection plot in the Team 08 A2
+# Technical Report (Section 4.2). The raw LabVIEW log was captured by the unit,
+# not held by the team, so these are read-off values with roughly +/-0.1 mm
+# resolution. They are adequate for a stiffness fit but should not be quoted as
+# primary measurements. The original figure is reproduced at
+# figures/structures/load-deflection-original.png.
+load_N,centre_deflection_mm,empennage_deflection_mm
+0,0.00,0.00
+30,0.35,0.30
+65,0.85,0.60
+100,1.30,0.95
+135,1.75,1.25
+170,2.20,1.60
+205,2.70,1.95
+240,3.15,2.20
+275,3.60,2.50
+310,4.30,2.90
+345,4.75,3.30
+375,5.20,3.65
+410,5.65,4.00
+445,6.10,4.35
+480,6.50,4.75
+510,6.90,5.20
+540,7.15,5.60

@@ -1,0 +1,18 @@
+# Wind tunnel balance readings, fuselage + fairings fitted, tunnel speed 20 m/s.
+# drag_fx_raw / lift_fz_raw are uncorrected balance channels; the *_norm columns
+# are the tare-corrected values reported by the team (tare = 13.619 N on drag).
+# Source: Team 08 A2 Technical Report, Appendix 3.3.
+aoa_deg,drag_fx_raw_N,drag_fx_norm_N,lift_fz_raw_N,lift_fz_norm_N
+0,18.287,4.668,-12.905,-6.467
+0,18.407,4.788,-12.747,-6.309
+0,18.507,4.888,-12.882,-6.444
+0,18.653,5.034,-12.867,-6.429
+0,18.949,5.330,-12.781,-6.343
+0,19.218,5.599,-12.771,-6.333
+0,18.356,4.737,-13.039,-6.601
+-10,20.855,7.236,-29.177,-22.739
+-5,19.128,5.509,-20.398,-13.960
+5,18.669,5.050,-6.357,0.081
+10,19.364,5.745,2.169,8.607
+15,20.894,7.275,10.021,16.459
+16,21.767,8.148,10.563,17.001

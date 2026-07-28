@@ -1,0 +1,15 @@
+part,unit_mass_g,quantity,total_mass_g,category
+Main Wing Plane fuselage joint,68.2,1,68.2,joint
+Aluminium sheet (2014A-T3 strap),12.3,1,12.3,joint
+M4 x 80 mm bolt,3.1,2,6.2,fastener
+M4 x 8 mm bolt,1.7,1,1.7,fastener
+M4 washer,0.3,4,1.2,fastener
+Wing nut,2.0,2,4.0,fastener
+Main Wing Plane fairing half,300.0,2,600.0,fairing
+Main Wing Plane joint clamp,25.3,2,50.6,joint
+Nose cone fairing,38.6,1,38.6,fairing
+Shell fairing,51.6,2,103.2,fairing
+Empennage joint fairing upper half,43.7,1,43.7,joint
+Empennage joint fairing lower half,42.9,1,42.9,joint
+M4 x 50 mm bolt,2.8,2,5.6,fastener
+Empennage clamp,32.9,1,32.9,joint

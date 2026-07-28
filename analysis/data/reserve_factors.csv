@@ -1,0 +1,9 @@
+part,check,reserve_factor,source
+Centre bar,Bending,1.95,TB-1 stress report
+Spar,Bearing,2.4,TB-1 stress report
+Flange,Prying,3.4,TB-1 stress report
+Spar,Tension,4.4,TB-1 stress report
+Spar,Shear,5.1,TB-1 stress report
+Pin,Shear,7.4,TB-1 stress report
+Spar,Cleavage,8.9,TB-1 stress report
+Lug,Prying,39.0,TB-1 stress report

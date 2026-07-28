@@ -1,0 +1,40 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2025 Jad El Badaoui
+
+This licence covers the documentation, figures, charts, analysis data and
+analysis scripts in this repository.
+
+You are free to:
+
+  Share  — copy and redistribute the material in any medium or format
+  Adapt  — remix, transform, and build upon the material
+
+Under the following terms:
+
+  Attribution   — You must give appropriate credit, provide a link to the
+                  licence, and indicate if changes were made.
+
+  NonCommercial — You may not use the material for commercial purposes.
+
+Full licence text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+
+ADDITIONAL NOTES
+
+CAD geometry
+  The CAD files in cad/ were produced as University of Bristol coursework
+  (unit CADE20005, AVDASI 2, 2024-25) under academic supervision. They are
+  published here for portfolio and educational purposes. Subassemblies other
+  than JointsAndFairings were authored by other student teams within the same
+  company; authorship is attributed in cad/README.md.
+
+Academic integrity
+  This is submitted coursework. It is published so that others can see how the
+  work was done. Submitting any part of it as your own work for assessment is
+  plagiarism, and university plagiarism detection will find it.
+
+Third-party material
+  Teaching material reproduced in the original technical report under academic
+  fair dealing has been excluded from this repository. Figures here are the
+  team's own work.

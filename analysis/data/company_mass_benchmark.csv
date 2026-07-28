@@ -1,0 +1,7 @@
+# Cross-company mass benchmark, AVDASI 2 2024-25. Three student companies built
+# to the same requirement set. Source: company mass report (Figure 3.7 Weights).
+assembly,albatross_kg,bluebird_kg,cropheed_martin_kg,notes
+Port wing,1.25,1.30,1.40,includes avionics
+Starboard wing,1.50,1.30,1.25,includes avionics
+Fuselage,2.10,2.25,2.70,excludes fairings and payload
+Fairings,0.652,0.212,0.627,fairings only

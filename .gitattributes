@@ -1,0 +1,35 @@
+# Normalise text in the repository, check out native line endings
+* text=auto
+
+# Autodesk Inventor and CAD interchange formats are binary containers.
+# Marking them stops Git attempting line-ending conversion or diffing them.
+*.ipt   binary
+*.iam   binary
+*.idw   binary
+*.ipn   binary
+*.ipj   binary
+*.dwg   binary
+*.STEP  binary
+*.step  binary
+*.stp   binary
+*.stl   binary
+*.tap   binary
+
+# Documents and images
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.xlsx  binary
+*.zip   binary
+
+# Keep analysis inputs and scripts as LF regardless of platform
+*.csv   text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+
+# Exclude bulk CAD and figures from GitHub's language statistics, so the
+# repository is reported by its documentation rather than as "SVG".
+cad/**      linguist-vendored
+figures/**  linguist-documentation
+*.svg       linguist-vendored
