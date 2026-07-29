@@ -1,3 +1,12 @@
+# PROVENANCE: joints and fairings subassembly mass breakdown, as reported in the
+# Team 08 A2 Technical Report. The same table is reproduced as an image at
+# figures/structures/subassembly-mass-table.png, which is the primary record; this
+# CSV is a machine-readable transcription of it.
+# total_mass_g = unit_mass_g * quantity on every row, and the rows sum to 1011.1 g,
+# the subassembly mass quoted in the README.
+# Rows cover 9 structural parts plus 5 fastener line items; the README's "10 flight
+# parts, 100% additively manufactured" counts delivered AM parts, which is a
+# different count from the line items here.
 part,unit_mass_g,quantity,total_mass_g,category
 Main Wing Plane fuselage joint,68.2,1,68.2,joint
 Aluminium sheet (2014A-T3 strap),12.3,1,12.3,joint

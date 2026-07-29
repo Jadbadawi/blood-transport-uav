@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  Structural joints and aerodynamic fairings for a blood-transport UAV: design,
+  manufacture and test
+message: If you refer to this work, please cite it using these metadata.
+type: dataset
+authors:
+  - given-names: Jad
+    family-names: El Badaoui
+    affiliation: University of Bristol
+abstract: >-
+  Design, analysis, manufacture and testing of the joints and fairings subassembly
+  for a blood-transport UAV, delivered as part of the AVDASI 2 group design project
+  at the University of Bristol. Ten additively manufactured flight parts totalling
+  1,011 g, taken from requirements and concept downselection through stress analysis
+  and reserve factors to a wind tunnel entry and a load test past the ultimate load
+  case. The airframe survived to 813 N with a linear load-deflection response, but
+  failed by bolt shear-out through a 3D-printed clamp -- a path for which no reserve
+  factor had been computed, which is the most useful engineering finding in the work.
+  Documented from the author's own vantage point, with contribution scoped explicitly
+  and teammates referred to by role.
+keywords:
+  - unmanned aerial vehicle
+  - aerospace structures
+  - structural analysis
+  - reserve factor
+  - additive manufacturing
+  - wind tunnel testing
+  - computer-aided design
+  - aerodynamics
+  - engineering design
+  - project management
+license: CC-BY-NC-4.0
+repository-code: https://github.com/Jadbadawi/blood-transport-uav
+date-released: "2026-07-29"
